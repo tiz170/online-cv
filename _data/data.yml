@@ -50,16 +50,19 @@ education:
       university: University of Carlifornia San Diego
       time: 2017 - 2019
       details: |
-        - Computer Science Relevant Course: Data Structure.
-        - Economics Relevant Courses: Microeconomics, Macroeconomics, Econometrics, International Trade, Statistics, International Monetary Relations, taxation.
-
-    - degree: A.S. in Economics
-      university: Berkeley City College
-      time: 2015 - 2017
-      details: |
-        - Economics Relevant Courses: Business Management, Financial & Managerial Accounting, Calculus.
+        - Computer Science Relevant Course: Statistics, Algorithms and Data Structure, Full-stack Web Development, Java and Object-oriented Design
+        - Economics Relevant Courses: Microeconomics, Macroeconomics, Econometrics, International Trade, International Monetary Relations, Taxation.
 
 experiences:
+    - role: Full-stack Developer
+      time: 2021 - Present
+      company: Orbeon, Inc., San Francisco, CA
+      details: |
+      Orbeon Forms is a web-based crossplatform solution to build and deploy web forms on-premises. Available in an open source Community Edition, as well as a commercially supported Professional Edition. Used around the world in a number of industries, including governments, banking, healthcare, telecom, and education.
+      - Contributed to the open source community (https://github.com/orbeon/orbeon-forms) by improving documentation, attending Scrum meetings and code reviews, triaging bug reports and features requests, and maintaining and refactoring the e2e code.
+      - Re-wrote the pdf generation backend pipeline using Scala and state-of-art Open HTML to PDF library
+      - Migrated the frontrend to Boostrap 5 by re-writing UI components across the site inlucding nav bar, using Less CSS, XML
+
     - role: International Business Specialist
       time: 2019 - Present
       company: Bank of the Orient, San Francisco, CA
@@ -86,6 +89,14 @@ projects:
         link: https://github.com/tiz170/YelpCamp
         tagline: Monolithic model-view-controller full-stack web application built with Node.js, Express.js, MonogDB, EJS, and Bootstrap. Server hosted on Heroku, Database hosted on MongoDB Atlas, served over Microsoft Azure with Google Domains as DNS provider.
       
+      - title: Stock Trend Prediction Based on Historical Data
+        link: https://github.com/tiz170/stock_trend_prediction
+        tagline: The goal of this research project is to implement, analyze and visualize multiple predicting technical indicators and factors to find out the essential factors affecting the stock change and forecast the future stock trend based on collected stock dataset.
+        - Collected, cleaned and preprocessed historical stock market data from Non-SQL database using Python.
+        - Built prediction models based on technical analysis and machine learning using Numpy and Scikit-learn.
+        - Analyzed the chosen stock using correlation analysis and risk analysis (Monte Carlo simulations).
+        - Compared the performance of prediction models by building the stock trading simulation pipeline.
+        - Visualized the experient results using Pandas and Matplotlib.
 # publications:
 #     title: Publications
 #     intro: |
