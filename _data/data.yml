@@ -87,14 +87,14 @@ projects:
     assignments:
       - title: YelpCamp
         link: https://github.com/tiz170/YelpCamp
-        description: Monolithic model-view-controller full-stack web application built with Node.js, Express.js, MonogDB, EJS, and Bootstrap. Server hosted on Heroku, Database hosted on MongoDB Atlas, served over Microsoft Azure with Google Domains as DNS provider:
+        description: Monolithic model-view-controller full-stack web application built with Node.js, Express.js, MonogDB, EJS, and Bootstrap. Server hosted on Heroku, Database hosted on MongoDB Atlas, served over Microsoft Azure with Google Domains as DNS provider.
         details: |
             - Used Passport.js to enhance the authentication and authorization.
             - Leveraged Google Map API to build maps and provide members with real time locations.
             - Hosted server on Heroku and Microsoft Azure with Google Domains as DNS provider. 
       - title: Stock Trend Prediction Based on Historical Data
         link: https://github.com/tiz170/stock_trend_prediction
-        description: The goal of this research project is to implement, analyze and visualize multiple predicting technical indicators and factors to find out the essential factors affecting the stock change and forecast the future stock trend based on collected stock dataset:
+        description: The goal of this research project is to implement, analyze and visualize multiple predicting technical indicators and factors to find out the essential factors affecting the stock change and forecast the future stock trend based on collected stock dataset.
         details: |
             - Collected, cleaned and preprocessed historical stock market data from Non-SQL database using Python.
             - Built prediction models based on technical analysis and machine learning using Numpy and Scikit-learn.
