@@ -91,7 +91,7 @@ projects:
       
       - title: Stock Trend Prediction Based on Historical Data
         link: https://github.com/tiz170/stock_trend_prediction
-        tagline: The goal of this research project is to implement, analyze and visualize multiple predicting technical indicators and factors to find out the essential factors affecting the stock change and forecast the future stock trend based on collected stock dataset.
+        description: The goal of this research project is to implement, analyze and visualize multiple predicting technical indicators and factors to find out the essential factors affecting the stock change and forecast the future stock trend based on collected stock dataset.
         details: |
             - Collected, cleaned and preprocessed historical stock market data from Non-SQL database using Python.
             - Built prediction models based on technical analysis and machine learning using Numpy and Scikit-learn.
