@@ -22,6 +22,10 @@
       <div class="company">{{ experience.company }}</div>
 
     </div><!--//meta-->
+    
+    {% if experience.description %}
+    <div class="experience-description">{{ experience.description }}</div>
+    {% endif %}
 
     {% if experience.details %}
     <div class="details">
